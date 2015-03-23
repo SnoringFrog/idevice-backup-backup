@@ -6,7 +6,9 @@
 |_|\__,_|\___| \_/ |_|\___\___| |_.__/ \__,_|\___|_|\_\\__,_| .__/      
                                                             |_|
 ```
-Simple script for backing up iDevice backups made via iTunes
+Simple script for backing up iDevice backups made via iTunes. 
+
+NOTE: This currently only works for one device, as far as I'm aware. I'm working on how to have it manage multiple devices.
 
 By default, iTunes only stores the most recent backup you've made. Sometimes, you want to have multiple backups stored. This script just makes the task of copying the backup directory a bit simpler.
 
